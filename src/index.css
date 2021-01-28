@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.reloj{
+  color: rgba(251, 255, 0, 0.884);
+  font-size: 75px;
+  font-family: 'digital-7 (italic)';
+}
+.f-size-15{
+  font-size: 45px;
+}
+
+@font-face {
+  font-family: "digital-7 (italic)";
+  src: url("./digital-7/digital-7\ \(italic\).ttf");
+}
